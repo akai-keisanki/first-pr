@@ -1,4 +1,3 @@
 # Contributors
 
-- [Thiago Nepomuceno](https://github.com/ThiNepo)
-- [Tiago Barros](https://github.com/tiagobpires)
+- [Ricardo Felipe](https://github.com/Ricardo2357)
